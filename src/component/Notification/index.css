@@ -1,0 +1,39 @@
+.o1{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:center;
+    
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+}
+.success{
+    color:green;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.error{
+    color:red;
+    font-weight: bold;
+    font-style: italic;
+    
+
+}
+.warning{
+    color:goldenrod;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.info{
+    color:blue;
+    font-weight: bold;
+    font-style: italic;
+    
+}
